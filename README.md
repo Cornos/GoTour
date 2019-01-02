@@ -1,3 +1,3 @@
 # GoTour
 
-Solutions for GoTour 2017
+My solutions for gotour 2017
